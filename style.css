@@ -1,0 +1,21 @@
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+main{
+    padding: 0em 1em;
+    border-top: 1px solid grey;
+}
+
+aside{
+    padding-right: .5em;
+}
+
+section{
+    padding: 0px 3em;
+    border-left: 1px solid grey;
+}
